@@ -26,4 +26,4 @@ O app é voltado para o público geral. Principalmente para pessoa que esteja pl
 * Pesquisa de produto na internet recuperando o valor mais barato(Parecido com buscapé)
 
 ### Vídeo de Demonstração do App
-<a href="https://youtu.be/MVtKmN6Qv7c">Vídeo do app </a>
+<a href="https://youtu.be/MVtKmN6Qv7c">https://youtu.be/MVtKmN6Qv7c</a>
